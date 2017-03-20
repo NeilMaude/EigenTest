@@ -1,0 +1,9 @@
+Debug/EigenTest.log
+*.obj
+Debug/EigenTest.pch
+*.tlog
+Debug/vc141.idb
+*.pdb
+EigenTest.vcxproj
+*.filters
+ReadMe.txt
